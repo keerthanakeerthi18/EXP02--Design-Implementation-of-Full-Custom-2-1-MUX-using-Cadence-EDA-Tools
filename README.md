@@ -1,4 +1,4 @@
-# EX no:3  Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
+# EX no:2  Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
  
 ### Aim:
 To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools, analyse its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
